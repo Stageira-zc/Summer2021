@@ -1,0 +1,11 @@
+
+public class demo1 {
+	public static void main(String[] args) {
+		add(3, 5);
+	}
+
+	// ¼Ó·¨
+	public static int add(int a, int b) {
+		return a + b;
+	}
+}

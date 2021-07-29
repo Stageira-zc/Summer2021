@@ -1,0 +1,22 @@
+package test;
+
+public class demo9 {
+	public static void main(String[] args) {
+		add i = new add();
+		System.out.println(i.a);
+	}
+}
+
+class add {
+	private int a;
+	private int b;
+
+	public int getNum_1() {
+		return 0;
+	}
+
+	public int getNum_2() {
+		return 0;
+	}
+
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="sun.jvmstat.perfdata.monitor.PerfStringVariableMonitor"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xerces.internal.dom.PSVIAttrNSImpl"/>
+    <fullyQualifiedTypeName name="com.sun.jdi.PathSearchingVirtualMachine"/>
+    <fullyQualifiedTypeName name="java.lang.ClassValue"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="scanner.demo5"/>
+</qualifiedTypeNameHistroy>
